@@ -1,6 +1,11 @@
 # Skytrax User Reviews Dataset (August 2nd, 2015)
 A scraped dataset created from all user reviews found on Skytrax (www.airlinequality.com). It is unknown under which license Skytrax published these reviews. However, the reviews are accessible by anyone with a browser and the robots.txt on their website did not specifically prohibit the scraping of them.
 
+An exploration study of this dataset can be found here:
+  - http://www.quangn.com/exploring-reviews-of-airline-services/
+
+# Dataset Format
+
 The reviews are divided into 4 csv files. Each file contains reviews of one category.
 
 In total there are:
